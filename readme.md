@@ -17,11 +17,11 @@ Kelompok Linux Arek Suroboyo adalah tempat berkumpul, berbagi informasi, dan bel
 Repo ini digunakan untuk menyimpan asset karya seni KLAS secara daring.
 Assetnya antara lain:
 
-- Poster Event
-- Bannner
-- Brosur
 - Logo KLAS dan Mitra
 - Foto Dokumentasi
+- Poster Event
+- Banner
+- Brosur
 
 ## Perangkat yang digunakan
 
