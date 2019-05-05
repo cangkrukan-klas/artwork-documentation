@@ -12,11 +12,10 @@
 
 Kelompok Linux Arek Suroboyo adalah tempat berkumpul, berbagi informasi, dan belajar bagi para pengguna Linux dan dan penggiat open source di Surabaya.
 
-## Artwork Documentation by KLAS
+## Artwork Documentation repo
 
 Repo ini digunakan untuk menyimpan asset karya seni KLAS secara daring.
-
-## Asset Repo
+Assetnya antara lain:
 
 - Poster Event
 - Bannner
