@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="kartini.svg"
-   inkscape:export-filename="/home/hervy/Documents/kaostronomi-gh/artwork-documentation/menuju-ramadhan/menuju-ramadhan.png"
+   sodipodi:docname="menuju-ramadhan.svg"
+   inkscape:export-filename="/home/hervy/Documents/kaostronomi-gh/artwork-documentation/menuju-ramadhan/menuju-ramadan.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <defs
@@ -411,7 +411,7 @@
        x2="-58.146973"
        y2="171.06905"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.76585625,0,0,0.76585625,61.950552,-42.728975)" />
+       gradientTransform="matrix(0.76585625,0,0,0.76585625,61.950542,-42.728975)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3059"
@@ -441,9 +441,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1352.7865"
-     inkscape:cy="1431.8287"
+     inkscape:zoom="0.35"
+     inkscape:cx="962.93084"
+     inkscape:cy="781.15243"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1654,19 +1654,19 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.4035511px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#007581;fill-opacity:1;stroke:none;stroke-width:0.61008877"
-           x="213.29625"
+           x="213.41734"
            y="-60.301414"
            id="text2424"
            transform="skewX(-11.968203)"><tspan
              sodipodi:role="line"
              id="tspan2422"
-             x="213.29625"
+             x="213.41734"
              y="-60.301414"
              style="fill:#007581;fill-opacity:1;stroke-width:0.61008877">Menuju</tspan></text>
         <g
            style="fill:#00a489"
            id="g2577"
-           transform="matrix(2.3058474,0,-0.48878566,2.3058474,-1728.7026,103.60678)">
+           transform="matrix(2.3058474,0,-0.48878566,2.3058474,-1710.7047,103.60678)">
           <text
              id="text2432"
              y="-52.371071"
@@ -1677,7 +1677,7 @@
                y="-52.371071"
                x="800.79688"
                id="tspan2430"
-               sodipodi:role="line">Ramadhan</tspan></text>
+               sodipodi:role="line">Ramadan</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.31412506px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a489;fill-opacity:1;stroke:none;stroke-width:0.53285313"
@@ -1688,11 +1688,11 @@
                id="tspan2426"
                x="800.79688"
                y="-53.440147"
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.31412506px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00a489;fill-opacity:1;stroke-width:0.53285313">Ramadhan</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.31412506px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00a489;fill-opacity:1;stroke-width:0.53285313">Ramadan</tspan></text>
         </g>
         <g
            id="g2706"
-           transform="matrix(1.3100163,0,0,1.3100163,-80.19733,-14.131182)"
+           transform="matrix(1.3100163,0,0,1.3100163,-79.345224,-14.131182)"
            style="fill:#007965;fill-opacity:1">
           <text
              xml:space="preserve"
@@ -1763,6 +1763,6 @@
          x="262.74988"
          y="106.92972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.0711441px;line-height:0;font-family:'Fake Serif';-inkscape-font-specification:'Fake Serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:url(#linearGradient3053);fill-opacity:1;stroke:none;stroke-width:1.97680235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan2751">Ya Ramadhan</tspan></text>
+         id="tspan2751">Ya Ramadan</tspan></text>
   </g>
 </svg>
