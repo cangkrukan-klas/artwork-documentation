@@ -1,0 +1,11 @@
+– Mengenal Teknologi Docker
+– Instalasi Docker Pada Ubuntu
+– Berinteraksi Dengan Docker Image
+– Memanfaatkan DockerHub Sebagai Tempat Menyimpan Docker Image
+– Manajemen Docker Image Dan Kontainer
+– Dockerfile, Konfigurasi Untuk Membangun Docker Image
+– Penggunaan dan Pemanfaatan Volume
+– Dasar-Dasar Jaringan Pada Docker Kontainer
+– Jalankan Proyek Anda Dengan Kontainer Docker (Studi Kasus WordPress)
+– Mengenal Docker Compose
+– Jalakan Proyek Anda Dengan Docker Compose (Studi Kasus WordPress)
