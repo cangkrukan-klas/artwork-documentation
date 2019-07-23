@@ -34,15 +34,15 @@
      id="namedview5120"
      showgrid="true"
      inkscape:zoom="0.1128136"
-     inkscape:cx="-790.97779"
-     inkscape:cy="1869.8664"
+     inkscape:cx="457.34869"
+     inkscape:cy="1025.1727"
      inkscape:window-x="8"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:snap-global="false"
      borderlayer="true"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:snap-page="true"
      showguides="false"
      inkscape:snap-bbox="true"
@@ -2939,7 +2939,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2947,7 +2947,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:export-ydpi="92"
        inkscape:export-xdpi="92"
@@ -3941,7 +3942,7 @@
        sodipodi:nodetypes="ccsccc" />
     <rect
        id="rect280"
-       style="fill:url(#linearGradient4421);fill-opacity:1;paint-order:stroke fill markers;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:0.99999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5003-8-3)"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient4421);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5003-8-3)"
        ry="2.7513001"
        height="959.62848"
        width="705.64001"
@@ -4912,98 +4913,12 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="92"
        inkscape:export-ydpi="92" />
-    <g
-       transform="translate(-1032.1298,59.270962)"
-       id="g4338-6">
-      <g
-         style="fill:#ffffff;fill-opacity:1"
-         transform="translate(511.24164,-216.21342)"
-         id="g7810-5">
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g7799-6">
-          <text
-             id="text21986-8"
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.40277863px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.78421998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             word-spacing="0px"
-             letter-spacing="0px"
-             font-size="18.231px"
-             y="452.3049"
-             x="35.95039">Pembicara :</text>
-          <flowRoot
-             transform="matrix(0.26458333,0,0,0.26458333,-692.38184,36.465359)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="flowRoot22008-4"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="flowRegion21990-8"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                 y="1605.6737"
-                 x="2753.0781"
-                 height="646.00824"
-                 width="829.27148"
-                 id="rect21988-8" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="flowPara22006-3" /></flowRoot>        </g>
-      </g>
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path9949-8"
-         transform="matrix(0.26458333,0,0,0.26458333,-78.096594,-4.6906284)"
-         d="m 2009.2559,777.14766 -182.5391,46.6836 V 1107.323 l 182.5391,46.6817 182.5371,-46.6817 V 823.83126 Z"
-         clip-path="none"
-         style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5003-8-3-6)" />
-      <g
-         id="g10344-7"
-         transform="matrix(1.1918459,0,0,1.1918459,475.83151,-274.71976)"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.83903468">
-        <g
-           id="g10342-5"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.83903468">
-          <text
-             x="35.95039"
-             y="452.3049"
-             font-size="18.231px"
-             letter-spacing="0px"
-             word-spacing="0px"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.40277863px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.65798777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             xml:space="preserve"
-             id="text10332-2">Chotibul Umam</text>
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot10340-4"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             transform="matrix(0.26458333,0,0,0.26458333,-692.38184,36.465359)"><flowRegion
-               id="flowRegion10336-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-                 id="rect10334-0"
-                 width="829.27148"
-                 height="646.00824"
-                 x="2753.0781"
-                 y="1605.6737"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-               id="flowPara10338-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRoot>        </g>
-      </g>
-      <image
-         sodipodi:absref="/home/hervyqa/hervyqa-gh/artwork-documentation/fundamental-docker-300k/umam.jpg"
-         xlink:href="umam.jpg"
-         clip-path="url(#clipPath9413-4)"
-         style="fill:#ffffff"
-         width="81.734291"
-         height="81.734291"
-         preserveAspectRatio="none"
-         id="image9410-7"
-         x="412.4769"
-         y="209.91759" />
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1">
+     inkscape:label="Layer 1"
+     style="display:inline">
     <text
        id="text284"
        xml:space="preserve"
@@ -6723,14 +6638,14 @@
       <image
          sodipodi:absref="/home/hervyqa/hervyqa-gh/artwork-documentation/fundamental-docker-300k/umam.jpg"
          xlink:href="umam.jpg"
-         y="209.91759"
-         x="412.4769"
-         id="image9410"
-         preserveAspectRatio="none"
-         height="81.734291"
-         width="81.734291"
+         clip-path="url(#clipPath9413)"
          style="fill:#ffffff"
-         clip-path="url(#clipPath9413)" />
+         width="81.734291"
+         height="81.734291"
+         preserveAspectRatio="none"
+         id="image9410"
+         x="412.4769"
+         y="209.91759" />
     </g>
     <image
        style="stroke-width:0.33098152"
@@ -6792,85 +6707,6 @@
          font-weight="900"
          style="font-weight:900;font-size:80.09472656px;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#f0fcfe;fill-opacity:1;stroke:none;stroke-width:1.65050018;stroke-opacity:0"
          id="tspan4001">DOCKER</tspan></text>
-    <rect
-       transform="scale(-1,1)"
-       x="289.31686"
-       y="209.27031"
-       width="419.1947"
-       height="8.0949793"
-       rx="4.8817625"
-       ry="3.3109238"
-       id="rect4005"
-       style="fill:#f0f0f0;stroke-width:1" />
-    <g
-       transform="translate(-873.14103,41.258496)"
-       id="g4189">
-      <g
-         transform="translate(-31.075412)"
-         id="g4177">
-        <rect
-           transform="matrix(2.8265,0,0,2.8265,181.55006,152.21147)"
-           style="fill:#ffffff;filter:url(#filter10306)"
-           id="rect4171"
-           ry="2.9561"
-           rx="0"
-           height="10.964081"
-           width="108.57955"
-           y="62.056999"
-           x="79.161003" />
-        <text
-           id="text4175"
-           xml:space="preserve"
-           style="font-weight:600;font-size:16.12066078px;line-height:1.25;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4191);stroke-width:0.69342524"
-           word-spacing="0px"
-           letter-spacing="0px"
-           font-weight="600"
-           font-size="5.7034px"
-           y="347.26971"
-           x="426.8197"><tspan
-             id="tspan4173"
-             style="font-weight:600;font-size:16.12066078px;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient4191);stroke-width:0.69342524"
-             font-weight="600"
-             font-size="5.7034px"
-             y="347.26971"
-             x="426.8197">https://s.klas.or.id/docker-infrastruktur</tspan></text>
-      </g>
-      <g
-         id="g4185"
-         transform="translate(-39.87749,83.022938)">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.19200921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6964-1-0-3-1)"
-           id="rect4179"
-           width="24.396273"
-           height="9.1891518"
-           x="781.86267"
-           y="-48.990986"
-           ry="2.4369516"
-           transform="matrix(2.3712065,0,0,2.3712065,-1204.4142,395.9864)" />
-        <text
-           x="657.4173"
-           y="295.26486"
-           font-size="5.7034px"
-           font-weight="600"
-           letter-spacing="0px"
-           word-spacing="0px"
-           style="font-weight:600;font-size:16.12066078px;line-height:1.25;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4193);stroke-width:0.6934253"
-           xml:space="preserve"
-           id="text4183"><tspan
-             x="657.4173"
-             y="295.26486"
-             font-size="5.7034px"
-             font-weight="600"
-             style="font-weight:600;font-size:16.12066078px;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient4193);stroke-width:0.6934253"
-             id="tspan4181">Daftar</tspan></text>
-      </g>
-      <path
-         d="m 124.49683,70.818042 0.86312,5.1023 1.2862,-0.90152 1.0377,1.4805 c 0.11267,0.16078 0.33275,0.19948 0.49355,0.08679 l 0.48585,-0.34054 c 0.1608,-0.1127 0.19948,-0.33276 0.0868,-0.49355 l -1.0377,-1.4805 1.2862,-0.90152 z"
-         style="fill:#2475e3;fill-opacity:1;stroke:#ffffff;stroke-width:0.91925001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter9464-8-0)"
-         id="path4187"
-         inkscape:connector-curvature="0"
-         transform="matrix(2.8265,0,0,2.8265,310.54234,179.76891)" />
-    </g>
     <g
        id="g4085"
        transform="translate(-841.57918,58.043564)">
@@ -8329,6 +8165,174 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
       </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(-1032.1298,59.270963)"
+       id="g4338-6">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="translate(511.24164,-216.21342)"
+         id="g7810-5">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g7799-6">
+          <text
+             id="text21986-8"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.40277863px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.78421998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             word-spacing="0px"
+             letter-spacing="0px"
+             font-size="18.231px"
+             y="452.3049"
+             x="35.95039">Pembicara :</text>
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-692.38184,36.465359)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="flowRoot22008-4"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="flowRegion21990-8"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 y="1605.6737"
+                 x="2753.0781"
+                 height="646.00824"
+                 width="829.27148"
+                 id="rect21988-8" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="flowPara22006-3" /></flowRoot>        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path9949-8"
+         transform="matrix(0.26458333,0,0,0.26458333,-78.096594,-4.6906284)"
+         d="m 2009.2559,777.14766 -182.5391,46.6836 V 1107.323 l 182.5391,46.6817 182.5371,-46.6817 V 823.83126 Z"
+         clip-path="none"
+         style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5003-8-3-6)" />
+      <g
+         id="g10344-7"
+         transform="matrix(1.1918459,0,0,1.1918459,475.83151,-274.71976)"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.83903468">
+        <g
+           id="g10342-5"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.83903468">
+          <text
+             x="35.95039"
+             y="452.3049"
+             font-size="18.231px"
+             letter-spacing="0px"
+             word-spacing="0px"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.40277863px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.65798777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             xml:space="preserve"
+             id="text10332-2">Chotibul Umam</text>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot10340-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             transform="matrix(0.26458333,0,0,0.26458333,-692.38184,36.465359)"><flowRegion
+               id="flowRegion10336-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+                 id="rect10334-0"
+                 width="829.27148"
+                 height="646.00824"
+                 x="2753.0781"
+                 y="1605.6737"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+               id="flowPara10338-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83903468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRoot>        </g>
+      </g>
+      <image
+         sodipodi:absref="/home/hervyqa/hervyqa-gh/artwork-documentation/fundamental-docker-300k/umam.jpg"
+         xlink:href="umam.jpg"
+         y="209.91759"
+         x="412.4769"
+         id="image9410-7"
+         preserveAspectRatio="none"
+         height="81.734291"
+         width="81.734291"
+         style="fill:#ffffff"
+         clip-path="url(#clipPath9413-4)" />
+    </g>
+    <rect
+       transform="scale(-1,1)"
+       x="289.31686"
+       y="209.27031"
+       width="419.1947"
+       height="8.0949793"
+       rx="4.8817625"
+       ry="3.3109238"
+       id="rect4005"
+       style="display:inline;fill:#f0f0f0;stroke-width:1" />
+    <g
+       style="display:inline"
+       transform="translate(-873.14103,41.258495)"
+       id="g4189">
+      <g
+         transform="translate(-31.075412)"
+         id="g4177">
+        <rect
+           transform="matrix(2.8265,0,0,2.8265,181.55006,152.21147)"
+           style="fill:#ffffff;filter:url(#filter10306)"
+           id="rect4171"
+           ry="2.9561"
+           rx="0"
+           height="10.964081"
+           width="108.57955"
+           y="62.056999"
+           x="79.161003" />
+        <text
+           id="text4175"
+           xml:space="preserve"
+           style="font-weight:600;font-size:16.12066078px;line-height:1.25;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4191);stroke-width:0.69342524"
+           word-spacing="0px"
+           letter-spacing="0px"
+           font-weight="600"
+           font-size="5.7034px"
+           y="347.26971"
+           x="426.8197"><tspan
+             id="tspan4173"
+             style="font-weight:600;font-size:16.12066078px;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient4191);stroke-width:0.69342524"
+             font-weight="600"
+             font-size="5.7034px"
+             y="347.26971"
+             x="426.8197">https://s.klas.or.id/docker-infrastruktur</tspan></text>
+      </g>
+      <g
+         id="g4185"
+         transform="translate(-39.87749,83.022938)">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.19200921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6964-1-0-3-1)"
+           id="rect4179"
+           width="24.396273"
+           height="9.1891518"
+           x="781.86267"
+           y="-48.990986"
+           ry="2.4369516"
+           transform="matrix(2.3712065,0,0,2.3712065,-1204.4142,395.9864)" />
+        <text
+           x="657.4173"
+           y="295.26486"
+           font-size="5.7034px"
+           font-weight="600"
+           letter-spacing="0px"
+           word-spacing="0px"
+           style="font-weight:600;font-size:16.12066078px;line-height:1.25;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4193);stroke-width:0.6934253"
+           xml:space="preserve"
+           id="text4183"><tspan
+             x="657.4173"
+             y="295.26486"
+             font-size="5.7034px"
+             font-weight="600"
+             style="font-weight:600;font-size:16.12066078px;font-family:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient4193);stroke-width:0.6934253"
+             id="tspan4181">Daftar</tspan></text>
+      </g>
+      <path
+         d="m 124.49683,70.818042 0.86312,5.1023 1.2862,-0.90152 1.0377,1.4805 c 0.11267,0.16078 0.33275,0.19948 0.49355,0.08679 l 0.48585,-0.34054 c 0.1608,-0.1127 0.19948,-0.33276 0.0868,-0.49355 l -1.0377,-1.4805 1.2862,-0.90152 z"
+         style="fill:#2475e3;fill-opacity:1;stroke:#ffffff;stroke-width:0.91925001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter9464-8-0)"
+         id="path4187"
+         inkscape:connector-curvature="0"
+         transform="matrix(2.8265,0,0,2.8265,310.54234,179.76891)" />
     </g>
   </g>
 </svg>
