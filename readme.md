@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i1.wp.com/klas.or.id/wp-content/uploads/2015/10/g4067.png"></p>
+<p align="center"><img src="https://klas.or.id/wp-content/uploads/2020/07/logo-klas.png"></p>
 
 <p align="center">
 <a href="https://klas.or.id">Home |</a>
